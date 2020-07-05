@@ -1,0 +1,15 @@
+{
+  "name": "npm_project_lxm",
+  "version": "1.0.0",
+  "description": "从0搭建一个npm包",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./index.js"
+  },
+  "bin": {
+    "mvFile": "./bin/mvFile.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
